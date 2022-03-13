@@ -1,85 +1,250 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-<title>教师 - 罗英武课题组</title>
-<link rel="stylesheet" type="text/css" href="/ktxz/template/css/css.css" />
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class="cye-nm">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="shortcut icon" href="./picture/randc_logo.png">
+	
+<meta name="keywords" content="R&C课题组, 华南理工大学, 可见光通信, 机器人, R&C Research Group, South China University of Technology, robot, VLC, communication">
+<meta name="description" content="R&C课题组的主页">
+<meta name="360-site-verification" content="d423d8da2550ca5def68c898ec0f4a36" />
+<link rel="stylesheet" href="./css/jemdoc.css" type="text/css">
+
+<title>华南理工大学R&C课题组</title>
+
+<script type="text/javascript" async="" src="./css/ga.js"></script><script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39824124-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<style id="nightModeStyle">
+html.cye-enabled.cye-nm:not(*:-webkit-full-screen-ancestor) body,
+html.cye-enabled.cye-nm:not(*:-webkit-full-screen-ancestor) #cye-workaround-body {-webkit-filter:contrast(91%) brightness(84%) invert(1);}</style><style id="cyebody">html.cye-enabled.cye-lm body{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style><style id="cyediv">html.cye-enabled.cye-lm div{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style><style id="cyetable">html.cye-enabled.cye-lm th{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}html.cye-enabled.cye-lm td{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style><style id="cyetextInput">html.cye-enabled.cye-lm input[type=text]{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}html.cye-enabled.cye-lm textarea{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style><style id="cyeselect">html.cye-enabled.cye-lm select{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style><style id="cyeul">html.cye-enabled.cye-lm ul{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style><style id="cyeChangeByClick">html.cye-enabled.cye-lm .cye-lm-tag,html.cye-enabled.cye-lm.cye-lm-tag{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style>
+<style id="style-1-cropbar-clipper">/* Copyright 2014 Evernote Corporation. All rights reserved. */
+.en-markup-crop-options {
+    top: 18px !important;
+    left: 50% !important;
+    margin-left: -100px !important;
+    width: 200px !important;
+    border: 2px rgba(255,255,255,.38) solid !important;
+    border-radius: 4px !important;
+}
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-82384246-1', 'auto');
+  ga('send', 'pageview');
+</script>
+.en-markup-crop-options div div:first-of-type {
+    margin-left: 0px !important;
+}
+
+h1.randc{font-size:50px;}
+
+ul.menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #909090;
+    /*position: fixed;*/
+    top: 0;
+    width: 100%;
+}
+
+li.menu {
+    float: left;
+}
+
+li.menu a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+}
+
+li.menu a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #3333FF;
+}
+	
+</style>
+
+	
+	
 </head>
 
-                                         
-        	                	        
-                	        
-                                                                                
-                	                	                	                	        	        	        	        	        
-                                                                
-                	    
-<body>
+
 	
-<div class="top"><h1 class="btmc">罗英武课题组</h1><a href="/ktxzen/redir.php?catalog_id=12961" class="top_a" target="_blank"></a></div>    <div class="content">
-    	<!--左侧边栏-->
-        <div class="sidebar eql">
-        	<!--导航-->
-            <ul class="nav">
-            	<li><a href="/ktxz/redir.php?catalog_id=1086">课题组首页</a></li>
-                
-                                                                <li><a href="redir.php?catalog_id=1298">教师</a></li>
-                                                                                <li><a href="redir.php?catalog_id=1299">研究生</a></li>
-                                                                                <li><a href="redir.php?catalog_id=1300">研究方向</a></li>
-                                                                                <li><a href="redir.php?catalog_id=1301">研究成果</a></li>
-                                                                                <li><a href="redir.php?catalog_id=1302">科研设备</a></li>
-                                                                                <li class="last"><a href="redir.php?catalog_id=1303">组内活动</a></li>
-                                                            </ul>
-            <p class="dh"><a href="/" target="_blank"><img src="/ktxz/template/images/sys.jpg" alt="化学工程联合国家重点实验室" /></a></p>
-            <p class="dh"><a href="/ippe/" target="_blank"><img src="/ktxz/template/images/yjs.jpg" alt="聚合与聚合物工程研究所" /></a></p>
-            <div class="form">
-            	<h2>站内搜索</h2>
-            	 <form action="/ktxz/search.php" method="get" class="search">
-                 <input type="hidden" name="catalog_id" value="1086" />
-                 	<input name="postflag" type="hidden" id="postflag" value="1" />
-      				<input name="area" type="hidden" id="area" value="1086" />
-            		<p><label for="fs">方&nbsp;&nbsp;式:</label>
-                    <select type="text" name="fulltext" class="fs">
-                		<option value="0">标题</option>
-                    	<option value="1">全文</option>
-                	</select>
-                	</p>
-                    <p><label for="gjz">关键字:</label><input type="text" id="gjz" name="kw_qbzc" /></p>
-            		<p><input type="submit" value="" class="sub" /></p>
-                </form>
-            </div>
-        </div>        <!--右侧内容-->
-        <div class="mainbar eql">
-        	<p class="pos">您的位置:<a href="redir.php?catalog_id=1086">罗英武课题组</a> &gt; <a href="redir.php?catalog_id=1298">教师</a></p>
-            <div class="peo">
-                
-                                    
-                    <dl class="people_dl">
-                        <dt><a href="redir.php?catalog_id=1298&object_id=14214" title="罗英武 教授，博导" target="_blank"><img src="/wescms/sys/filebrowser/file.php?cmd=download&id=170149" alt="罗英武 教授，博导" /></a></dt>
-                        <dd class="people_dl_h"><a href="redir.php?catalog_id=1298&object_id=14214" title="罗英武 教授，博导" target="_blank">罗英武 教授，博导</a></dd>
-                        <dd>
-                           <p>浙江大学&nbsp; 化学工程与生物工程学系</p><p>化学工程联合国家重点实验室（浙江大学）</p><p>浙江大学聚合与聚合物工程研究所</p><p>电话: 0571-87951280</p><p>传真: 0571-87951612</p><p>E-mail: <a href="mailto:yingwu.luo@zju.edu.cn">yingwu.luo@zju.edu.cn</a></p>
-                        </dd>
-                    </dl>
-                                    
-                    <dl class="people_dl">
-                        <dt><a href="redir.php?catalog_id=1298&object_id=14209" title="高翔，副教授，博导" target="_blank"><img src="/wescms/sys/filebrowser/file.php?cmd=download&id=170147" alt="高翔，副教授，博导" /></a></dt>
-                        <dd class="people_dl_h"><a href="redir.php?catalog_id=1298&object_id=14209" title="高翔，副教授，博导" target="_blank">高翔，副教授，博导</a></dd>
-                        <dd>
-                           <p>浙江大学&nbsp; 化学工程与生物工程学系</p><p>化学工程联合国家重点实验室（浙江大学）</p><p>浙江大学聚合与聚合物工程研究所</p><p>电话: 0571-87951280</p><p>传真: 0571-87951612</p><p>E-mail: <a href="mailto:gaox@zju.edu.cn">gaox@zju.edu.cn</a></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-                        </dd>
-                    </dl>
-                                    
-                    <dl class="people_dl">
-                        <dt><a href="redir.php?catalog_id=1298&object_id=167868" title="赵俊杰 研究员 博导" target="_blank"><img src="/wescms/sys/filebrowser/file.php?cmd=download&id=170276" alt="赵俊杰 研究员 博导" /></a></dt>
-                        <dd class="people_dl_h"><a href="redir.php?catalog_id=1298&object_id=167868" title="赵俊杰 研究员 博导" target="_blank">赵俊杰 研究员 博导</a></dd>
-                        <dd>
-                           <p style="margin: 0in 0in 4px; line-height: normal;"><strong><span style="font-family: 宋体;"></span></strong></p><p>浙江大学&nbsp; 化学工程与生物工程学系</p><p>化学工程联合国家重点实验室（浙江大学）</p><p>浙江大学聚合与聚合物工程研究所</p><p style="margin: 0in 0in 4px; line-height: normal;"><span style="font-family: times new roman;">电话：0571-87951280<br/>传真：0571-87951612<br/>电子邮件：</span><a style="font-family: times new roman; text-decoration: underline;" href="http://mailto:junjiezhao@zju.edu.cn" target="_self"><span style="font-family: times new roman;">junjiezhao@zju.edu.cn</span></a><br/></p><p><br/></p>
-                        </dd>
-                    </dl>
-                  
-           </div>
-  	</div>
-    </div>
-    <!--版权所有-->
-    <div class="footer"> <p>版权所有 化学工程联合国家重点实验室(浙江大学) 2011 当前访问数：4581135 人<a href="/wescms/index.php">管理入口</a></p></div></body>
+<body ryt12610="1">
+<div id="layout-content" style="margin-top:15px">
+
+<table>
+  <tbody>
+    <tr>
+      <td width="670">
+       <table>
+        <tbody>
+	<col valign="middle">
+        <tr>
+	<td width="50">
+	<div style="float:right"><img src="./picture/randc_logo.png" border="0" width="50"></div>	
+	</td>
+
+	<td width="620">
+        <div id="toptitle">
+          <h1 class="randc">
+		<a href='https://scutrandc.github.io/'>华南理工大学R&C课题组</a>
+	  </h1>
+		
+	</div>
+	</td>
+	</tr>
+	</tbody>
+       </table>
+      </td>
+      <td>
+	<!--div style="float:right"><img src="/images/cyr_scut_by.jpg" border="0" width="230"></div-->
+      </td>
+    </tr><tr>
+  </tr></tbody>
+</table>
+
+<!--此处插入菜单框架-->
+
+<ul class="menu">
+  <li class="menu"><a href="https://scutrandc.github.io/">主页</a></li>
+  <li class="menu"><a href="https://scutrandc.github.io/projects/">研究项目</a></li>
+  <li class="menu"><a href="https://scutrandc.github.io/papers/">发表论文</a></li>
+  <li class="menu"><a href="https://scutrandc.github.io/patents/">申请专利</a></li>
+  <li class="menu"><a href="https://scutrandc.github.io/awards/">竞赛获奖</a></li>
+  <li class="menu"><a href="https://scutrandc.github.io/researchers/">研究人员</a></li>
+  <li class="menu"><a href="https://scutrandc.github.io/aboutus/">关于我们</a></li>
+  <li class="menu"><a href="https://scutrandc.github.io/cooperation/">合作交流</a></li>
+  <li class="menu"><a href="https://scutrandc.github.io/english/">English</a></li>
+
+</ul>
+
+<h2>课题组介绍</h2>
+  <p>
+  R&C（Robot and Communication）课题组创立于2016年，是由华南理工大学自动化学院的硕士<a href="https://kwanwaipang.github.io/">关伟鹏</a>带领，由本科生组成的学生研究团队，目前团队每年常驻成员人数为20人左右。团队于每年6月~9月招收准大二本科生加入团队，共同展开实验研究、项目申报、论文撰写、专利申请等工作。团队由学生自主开展科研，主要从事视觉可见光通信、计算机视觉、机器学习、移动机器人等方面的研究。我们的口号是“ to be the best of the best”，团队成员科研基础扎实，善于思考和判断，解决问题能力突出，每一位成员都极具创新精神和创造能力。目前，团队已发表高水平论文（SCI/EI）35篇；申请专利100余项，其中授权发明专利9项、授权实用新型专利45项，弥补了我校在可见光通信、定位研究领域的研究空白。
+  </p>
+  
+
+<h2>研究项目 <sup><a href="https://scutrandc.github.io/projects/"><font class="highlight">more</font></a></sup></h2>
+<ul>
+<h3>广东大学生科技创新培育专项资金项目</h3>
+  <li>
+  2018.02-2019.06&nbsp;&nbsp;&nbsp;&nbsp;<b>基于视觉可见光通信的移动机器人室内高精度定位与导航的研究</b>
+  </li>
+  <b>重点项目(60000元)</b>, 项目成员: 关伟鹏、刘晓伟、蔡烨、谢灿宇、陈艺荣、陈昕、陈世桓、刘梓璇、黄谋潇、陈邦栋
+  <li>
+  2018.07-2018.06&nbsp;&nbsp;&nbsp;&nbsp;<b>基于图像识别的多址接入VLC光条形码技术的研究及应用</b>
+  </li>
+  <b>一般项目(20000元)</b>, 项目成员: 关伟鹏、陈颖聪、彭振敬、陈浩伟、甘军保、李思敏、谢灿宇、陈艺荣、王鹏飞、朱剑超
+
+
+</ul>
+
+
+
+
+<h2>最新资讯 <sup><a href="https://scutrandc.github.io/news/"><font class="highlight">more</font></a></sup></h2>
+<ol>
+  <li>
+  2019.09.28&nbsp;&nbsp;&nbsp;&nbsp;<b>2019年，本课题组成员黄谋潇因发表sci论文取得推优保研资格，并将于2020年赴深圳先进技术研究院攻读硕士</b>
+  </li>
+	<li>
+  2019.09.28&nbsp;&nbsp;&nbsp;&nbsp;<b>2019年，本课题组成员李竞宜因发表sci论文取得推优保研资格，并将于2020年赴中山大学攻读硕士</b>
+  </li>
+	<li>
+  2019.09.28&nbsp;&nbsp;&nbsp;&nbsp;<b>2019年，本课题组成员陈邦栋因发表sci论文取得推优保研资格，并将于2020年赴华南理工大学攻读硕士</b>
+  </li>
+	<li>
+  2019.09.28&nbsp;&nbsp;&nbsp;&nbsp;<b>2019年，本课题组成员江佳佳因发表sci论文取得推优保研资格，并将于2020年赴华南理工大学攻读硕士</b>
+  </li>
+		<li>
+  2019.09.28&nbsp;&nbsp;&nbsp;&nbsp;<b>2019年，本课题组成员刘志鹏的论文“Improved Target Signal Source Tracking and Extraction Method Based on Outdoor Visible Light Communication Using an improved Particle Filter Algorithm based on Cam-Shift Algorithm”被sci期刊录用</b>
+  </li>
+	
+	
+
+	
+	<li>
+  2019.08.25&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="https://scutrandc.github.io/news/2019/zhaoxin2019.html">2019年课题组招新公告</a></b>
+  </li>
+  <b>报名方式：</b><a href="mailto:1300802724@qq.com">1300802724@qq.com</a>, 截止日期<b><font class="highlight">2019年09月01日</font></b>
+
+  <li>
+  2018&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="#">2018年课题组成员获得奖学金概况</a></b>
+  </li>
+  <p>
+     在2018年综测中，团队成员表现优异，平均班内排名百分比为8.1%，多人获得何镜堂创新奖学金、汇顶科技特等奖学金、汇顶科技一等学金、国家奖学金、国家励志奖学金等奖学金。
+  </p>
+
+	
+
+</ol>
+
+
+
+<h2>发表论文 <sup><a href="https://scutrandc.github.io/papers/"><font class="highlight">more</font></a></sup></h2>
+<ul>
+<li>
+    <a href="https://www.mdpi.com/1424-8220/19/5/1094">
+Improved Target Signal Source Tracking and Extraction Method Based on Outdoor Visible Light Communication Using an improved Particle Filter Algorithm based on Cam-Shift Algorithm</a><br>
+	 <b>zhipeng liu, <a href="https://kwanwaipang.github.io/">Weipeng Guan*</a></b>
+    <em>IEEE Photonics</em> (<b></b>), 2019.09<br>
+    <p style="margin-top:3px">
+
+    </p>
+ </li>	
+ <li>
+    <a href="https://www.mdpi.com/1424-8220/19/5/1094">A High-Precision, Real-Time and Robust Indoor Visible Light Positioning Method Based on Mean Shift Algorithm and Unscented Kalman Filter</a><br>
+	 <b>Zekun Xie, <a href="https://kwanwaipang.github.io/">Weipeng Guan*</a>, Jieheng Zheng, Xinjie Zhang, Shihuan Chen, Bangdong Chen</b>
+    <em>sensors</em> (<b>3.031</b>), 2019.05<br>
+    <p style="margin-top:3px">
+
+    </p>
+ </li>	
+	
+
+</ul>
+
+
+<!--底部展示图片 陈艺荣-->
+<div align="center"><img src="./picture/randc_logo.png" border="0" width="200"><img src="./picture/randc_scan.png" border="0" width="200"></div>
+
+<div align="center">Last updated by <a href='https://scutrandc.github.io/'>R&C Research Group</a> on August, 25, 2019.</div>
+<p>
+</p>
+
+<div align="center">
+  <script type="text/javascript">
+      var cnzz_protocol = (("https:" == document.location.protocol) ? "https://" : "http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1277960481'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1277960481%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));
+  </script><br>
+</div>
+
+<!--网站说明 陈艺荣-->
+<div align="center">
+<p>
+  网站设计制作、管理: <a href="http://www.yirongchen.com/">陈艺荣</a><br>
+ <a href='http://www.scut.edu.cn/'>华南理工大学</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://map.baidu.com/poi/%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6(%E4%BA%94%E5%B1%B1%E6%A0%A1%E5%8C%BA)/@12618360.90415888,2639356.0395327103,11.68z?uid=a45f647e846847649a0050da&primaryUid=1706766828930469904&ugc_type=3&ugc_ver=1&device_ratio=1&compat=1&querytype=detailConInfo&da_src=shareurl">中国-广州</a><br>
+ © 2018-2019 <a href='https://scutrandc.github.io/'>R&C Research Group</a>. All rights reserved.
+</p>
+</div>
+
+</body>
 </html>
