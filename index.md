@@ -1,7 +1,6 @@
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class="cye-nm">
+
 <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link rel="shortcut icon" href="./picture/randc_logo.png">
 	
@@ -18,7 +17,7 @@
   _gaq.push(['_trackPageview']);
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
@@ -39,7 +38,7 @@ html.cye-enabled.cye-nm:not(*:-webkit-full-screen-ancestor) #cye-workaround-body
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  });
   ga('create', 'UA-82384246-1', 'auto');
   ga('send', 'pageview');
 </script>
@@ -106,7 +105,7 @@ li.menu a:hover:not(.active) {
 	<td width="620">
         <div id="toptitle">
           <h1 class="randc">
-		<a href='https://scutrandc.github.io/'>华南理工大学R&C课题组</a>
+		华南理工大学R&C课题组</a>
 	  </h1>
 		
 	</div>
@@ -125,21 +124,12 @@ li.menu a:hover:not(.active) {
 <!--此处插入菜单框架-->
 
 <ul class="menu">
-  <li class="menu"><a href="https://scutrandc.github.io/">主页</a></li>
   <li class="menu"><a href="https://ccRoboteam.github.io/README/">研究项目</a></li>
-  <li class="menu"><a href="https://scutrandc.github.io/papers/">发表论文</a></li>
-  <li class="menu"><a href="https://scutrandc.github.io/patents/">申请专利</a></li>
-  <li class="menu"><a href="https://scutrandc.github.io/awards/">竞赛获奖</a></li>
-  <li class="menu"><a href="https://scutrandc.github.io/researchers/">研究人员</a></li>
-  <li class="menu"><a href="https://scutrandc.github.io/aboutus/">关于我们</a></li>
-  <li class="menu"><a href="https://scutrandc.github.io/cooperation/">合作交流</a></li>
-  <li class="menu"><a href="https://scutrandc.github.io/english/">English</a></li>
-
 </ul>
 
 <h2>课题组介绍</h2>
   <p>
-  R&C（Robot and Communication）课题组创立于2016年，是由华南理工大学自动化学院的硕士<a href="https://kwanwaipang.github.io/">关伟鹏</a>带领，由本科生组成的学生研究团队，目前团队每年常驻成员人数为20人左右。团队于每年6月~9月招收准大二本科生加入团队，共同展开实验研究、项目申报、论文撰写、专利申请等工作。团队由学生自主开展科研，主要从事视觉可见光通信、计算机视觉、机器学习、移动机器人等方面的研究。我们的口号是“ to be the best of the best”，团队成员科研基础扎实，善于思考和判断，解决问题能力突出，每一位成员都极具创新精神和创造能力。目前，团队已发表高水平论文（SCI/EI）35篇；申请专利100余项，其中授权发明专利9项、授权实用新型专利45项，弥补了我校在可见光通信、定位研究领域的研究空白。
+  R&C（Robot and Communication）课题组创立于2016年，是由华南理工大学自动化学院的硕士关伟鹏</a>带领，由本科生组成的学生研究团队，目前团队每年常驻成员人数为20人左右。团队于每年6月~9月招收准大二本科生加入团队，共同展开实验研究、项目申报、论文撰写、专利申请等工作。团队由学生自主开展科研，主要从事视觉可见光通信、计算机视觉、机器学习、移动机器人等方面的研究。我们的口号是“ to be the best of the best”，团队成员科研基础扎实，善于思考和判断，解决问题能力突出，每一位成员都极具创新精神和创造能力。目前，团队已发表高水平论文（SCI/EI）35篇；申请专利100余项，其中授权发明专利9项、授权实用新型专利45项，弥补了我校在可见光通信、定位研究领域的研究空白。
   </p>
   
 
