@@ -126,7 +126,7 @@ li.menu a:hover:not(.active) {
 
 <ul class="menu">
   <li class="menu"><a href="https://scutrandc.github.io/">主页</a></li>
-  <li class="menu"><a href="https://scutrandc.github.io/projects/">研究项目</a></li>
+  <li class="menu"><a href="https://ccRoboteam.github.io/README/">研究项目</a></li>
   <li class="menu"><a href="https://scutrandc.github.io/papers/">发表论文</a></li>
   <li class="menu"><a href="https://scutrandc.github.io/patents/">申请专利</a></li>
   <li class="menu"><a href="https://scutrandc.github.io/awards/">竞赛获奖</a></li>
